@@ -1,0 +1,109 @@
+generated: '2026-09-25'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 8
+  own: 7
+  other_domain: 0
+  platform: 1
+  roles:
+  - api
+  - other
+  - partner
+  - source
+  - status
+  - support
+  - website
+hosts:
+- host: api.apiiro.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: apiiro.com
+  role: api
+  relation: own
+- host: apiiro.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - PrivacyPolicy
+  - Website
+  serves:
+  - cdn
+  vendor: cloudflare
+  registrable_domain: apiiro.com
+  role: website
+  relation: own
+- host: github.com
+  found_by:
+  - pointer
+  types:
+  - GitHubOrganization
+  serves: []
+  registrable_domain: github.com
+  role: source
+  relation: platform
+- host: idp.apiiro.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: apiiro.com
+  role: other
+  relation: own
+- host: partners.apiiro.com
+  found_by:
+  - probed
+  - site-links
+  - namespace-probe
+  - well-known
+  types: []
+  serves: []
+  status: 200
+  registrable_domain: apiiro.com
+  role: partner
+  relation: own
+- host: status.apiiro.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types:
+  - StatusPage
+  serves: []
+  registrable_domain: apiiro.com
+  role: status
+  relation: own
+- host: support.apiiro.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types:
+  - Support
+  serves: []
+  registrable_domain: apiiro.com
+  role: support
+  relation: own
+- host: trust.apiiro.com
+  found_by:
+  - pointer
+  types:
+  - Compliance
+  serves: []
+  registrable_domain: apiiro.com
+  role: other
+  relation: own

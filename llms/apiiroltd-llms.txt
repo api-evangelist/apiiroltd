@@ -1,0 +1,40 @@
+# Apiiro | Secure your agentic development
+
+> With one Guardian Agent. Build on AppSec Data Fabric.
+
+## Pages
+
+- [Home](https://apiiro.com/): Main page
+- [Ai Sast](https://apiiro.com/product/guardian-agent/ai-sast): Ai Sast page
+- [Ai Sca](https://apiiro.com/product/guardian-agent/ai-sca): Ai Sca page
+- [Ai Spm](https://apiiro.com/product/guardian-agent/ai-spm): Ai Spm page
+- [Ai Tm](https://apiiro.com/product/guardian-agent/ai-threat-modeling): Ai Tm page
+- [Api Security](https://apiiro.com/product/guardian-agent/api-security): Api Security page
+- [ASPM](https://apiiro.com/product/guardian-agent/aspm): ASPM page
+- [Auto Fix](https://apiiro.com/product/guardian-agent/autofix): Auto Fix page
+- [Careers](https://apiiro.com/careers): Careers page
+- [Claim Free Autofix](https://apiiro.com/claim-free-autofix): Claim Free Autofix page
+- [Config](https://apiiro.com/config): Config page
+- [Contact Us](https://apiiro.com/contact-us): Contact Us page
+- [Customers](https://apiiro.com/customers): Customers page
+- [Demo](https://apiiro.com/demo): Demo page
+- [Dynamic Page View](https://apiiro.com/blog): Dynamic Page View page
+- [Dynamic Page View](https://apiiro.com/privacy-policy): Dynamic Page View page
+- [Dynamic Page View](https://apiiro.com/terms-of-use): Dynamic Page View page
+- [Dynamic Page View](https://apiiro.com/cookie-policy): Dynamic Page View page
+- [Free Auto Fix](https://apiiro.com/product/guardian-agent/free-autofix): Free Auto Fix page
+- [Glossary Index](https://apiiro.com/glossary): Glossary Index page
+- [Integrations](https://apiiro.com/platform/data-fabric/integrations): Integrations page
+- [Join Shine](https://apiiro.com/join-shine-apiiro-integrations-program): Join Shine page
+- [Perfect Storm](https://apiiro.com/product/guardian-agent/perfect-storm): Perfect Storm page
+- [Platform](https://apiiro.com/platform): Platform page
+- [Prevention](https://apiiro.com/product/guardian-agent/prevent): Prevention page
+- [Product](https://apiiro.com/product): Product page
+- [Resources](https://apiiro.com/resources): Resources page
+- [Risk Graph](https://apiiro.com/platform/data-fabric/risk-graph): Risk Graph page
+- [Secrets Security](https://apiiro.com/product/guardian-agent/secrets-security): Secrets Security page
+- [Software Graph](https://apiiro.com/platform/data-fabric/software-graph): Software Graph page
+- [Solutions](https://apiiro.com/solutions): Solutions page
+- [Sscs](https://apiiro.com/product/guardian-agent/sscs): Sscs page
+- [Thank You Demo](https://apiiro.com/thank-you-demo): Thank You Demo page
+- [Thank You Resources](https://apiiro.com/thank-you-resources): Thank You Resources page
